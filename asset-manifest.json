@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03c8cbc0.css",
+    "main.js": "/static/js/main.076d3826.js",
+    "static/media/calça.jpg": "/static/media/calça.cb846c89f3e898282fef.jpg",
+    "static/media/logo.png": "/static/media/logo.ed0f98ef12346240d91e.png",
+    "static/media/saia.jpg": "/static/media/saia.57a1445e66283ab87d3e.jpg",
+    "index.html": "/index.html",
+    "main.03c8cbc0.css.map": "/static/css/main.03c8cbc0.css.map",
+    "main.076d3826.js.map": "/static/js/main.076d3826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c8cbc0.css",
+    "static/js/main.076d3826.js"
+  ]
+}

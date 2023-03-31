@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.03c8cbc0.css",
-    "main.js": "/static/js/main.076d3826.js",
-    "static/media/calça.jpg": "/static/media/calça.cb846c89f3e898282fef.jpg",
-    "static/media/logo.png": "/static/media/logo.ed0f98ef12346240d91e.png",
-    "static/media/saia.jpg": "/static/media/saia.57a1445e66283ab87d3e.jpg",
-    "index.html": "/index.html",
-    "main.03c8cbc0.css.map": "/static/css/main.03c8cbc0.css.map",
-    "main.076d3826.js.map": "/static/js/main.076d3826.js.map"
+    "main.css": "/krlosjra/flordelotus.com/static/css/main.03c8cbc0.css",
+    "main.js": "/krlosjra/flordelotus.com/static/js/main.09c84ead.js",
+    "static/media/calça.jpg": "/krlosjra/flordelotus.com/static/media/calça.cb846c89f3e898282fef.jpg",
+    "static/media/logo.png": "/krlosjra/flordelotus.com/static/media/logo.ed0f98ef12346240d91e.png",
+    "static/media/saia.jpg": "/krlosjra/flordelotus.com/static/media/saia.57a1445e66283ab87d3e.jpg",
+    "index.html": "/krlosjra/flordelotus.com/index.html",
+    "main.03c8cbc0.css.map": "/krlosjra/flordelotus.com/static/css/main.03c8cbc0.css.map",
+    "main.09c84ead.js.map": "/krlosjra/flordelotus.com/static/js/main.09c84ead.js.map"
   },
   "entrypoints": [
     "static/css/main.03c8cbc0.css",
-    "static/js/main.076d3826.js"
+    "static/js/main.09c84ead.js"
   ]
 }
